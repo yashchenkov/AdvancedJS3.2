@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@yashchenkov/homework3": "^1.0.0"
+  },
+  "scripts": {
+   "start": "node src/index.js"
+}
+}
